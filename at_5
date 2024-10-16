@@ -1,0 +1,2 @@
+acendo o interruptor A por alguns minutos e apago, acendo o interruptor B, e vou a uma das salas, se está lampada estiver acesa ela é do interruptor B, se estiver quente porem apagada é do B e se tiver fria é do c.
+repito o processo na segunda vez só que indo a outra sala, assim descobrindo a lampada dela e atribuindo o interruptor que sobrou para a sala que não fui.
